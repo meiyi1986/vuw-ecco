@@ -4,7 +4,7 @@ title: Yi Mei
 
 # Username (this should match the folder name)
 authors:
-  - 001yimei
+  - yimei
 
 # Is this the primary user of the site?
 superuser: true
