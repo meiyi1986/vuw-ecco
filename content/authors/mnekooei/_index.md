@@ -19,12 +19,11 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include service composition, service deployment and resource allocation for services, artificial intelligence, evolutionary computation, distributed databases, social network data analysis, and conceptual modelling.
+bio: 
 
 interests:
-  - Artificial Intelligence
-  - Evolutionary Computation
-  - Distributed Databases
+  - Fuzzy Logic
+  - Network Scheduling
 
 education:
   courses:

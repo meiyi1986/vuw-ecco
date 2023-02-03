@@ -5,7 +5,7 @@ weight: 999
 
 # Username (this should match the folder name)
 authors:
-  - mengjiezhang
+  - mzhang
 
 # Is this the primary user of the site?
 superuser: false
