@@ -1,35 +1,38 @@
 ---
 # Display name
-title: Kirita-Rose Escott
-weight: 91
+title: Yahui Jia
+# weight: 10
 
 # Username (this should match the folder name)
 authors:
-  - kirita
+  - yhjia
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Assistant Lecturer, PhD Candidate
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Victoria University of Wellington
+  - name: South China University of Technology
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-  - Genetic Programming
-  - Workflow Scheduling
+  - Large Scale Optimization
+  - Combinatorial Optimization
 
 education:
   courses:
-    - course: BE Software Engineering (First Class Hons)
-      institution: Victoria University of Wellington, New Zealand
-      year: 2018
+    - course: PhD
+      institution: Sun Yat-sen University, China
+      year: 2019
+    - course: BE
+      institution: Sun Yat-sen University, China
+      year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -38,16 +41,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:kiritarose.escott@vuw.ac.nz'
+    link: 'mailto:jia.yahui@foxmail.com'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
   # - icon: linkedin
   #   icon_pack: fab
   #   link: https://www.linkedin.com/in/hui-ma-347aba35/
-  # - icon: google-scholar
-  #   icon_pack: ai
-  #   link: https://scholar.google.co.nz/citations?user=jtsKXnwAAAAJ&hl=en
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com.au/citations?hl=en&user=Fos0baQAAAAJ
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/meiyi1986
@@ -63,8 +66,8 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Staff Members
-  - Grad Students
+  - Alumni
 ---
 
-Kirita-Rose Escott (Ngāti Kahungunu, Ngāti Hāmoa) focuses on the use of evolutionary computation and machine learning for dynamic workflow scheduling in cloud computing with a particular focus on the use of genetic programming for scheduling heuristics. She also maintains an interest in other areas of AI, including deep, transfer, and multiagent reinforcement learning.
+Prof. Yahui Jia was a Postdoctoral Research Fellow working with A/Prof. Yi Mei and Prof. Mengjie Zhang during 2019-2021. He is now an Assistant Professor in the South China University of Technology, China.
+
