@@ -28,10 +28,10 @@ interests:
 education:
   courses:
     - course: PhD in Computer Science
-      institution: University of Science and Technology of China
+      institution: University of Science and Technology of China, China
       year: 2010
     - course: BSc in Mathematics
-      institution: University of Science and Technology of China
+      institution: University of Science and Technology of China, China
       year: 2005
 
 # Social/Academic Networking

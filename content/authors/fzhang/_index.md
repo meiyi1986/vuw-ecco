@@ -28,13 +28,13 @@ interests:
 education:
   courses:
     - course: PhD in Computer Science
-      institution: Victoria University of Wellington
+      institution: Victoria University of Wellington, New Zealand
       year: 2021
-    - course: MSc in Management
-      institution: Shenzhen University
+    - course: MSc
+      institution: Shenzhen University, China
       year: 2017
-    - course: BSc in Management
-      institution: Shenzhen University
+    - course: BSc
+      institution: Shenzhen University, China
       year: 2014
 
 # Social/Academic Networking
