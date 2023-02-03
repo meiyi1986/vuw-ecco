@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Mengjie Zhang
-weight: -10
+weight: 999
 
 # Username (this should match the folder name)
 authors:

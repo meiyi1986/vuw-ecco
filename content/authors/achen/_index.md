@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Aaron Chen
-weight: 80
+weight: 20
 
 # Username (this should match the folder name)
 authors:
