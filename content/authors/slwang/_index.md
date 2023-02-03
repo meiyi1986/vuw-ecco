@@ -1,11 +1,11 @@
 ---
 # Display name
-title: Jordan MacLachlan
+title: Shaolin Wang
 # weight: -1
 
 # Username (this should match the folder name)
 authors:
-  - jmaclachlan
+  - slwang
 
 # Is this the primary user of the site?
 superuser: false
@@ -23,8 +23,8 @@ bio:
 
 interests:
   - Genetic Programming
-  - Decision Making
-  - Medical Dispatching
+  - Arc Routing
+  - Explainable AI
 
 # education:
 #   courses:
@@ -45,7 +45,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:jordan.maclachlan@ecs.vuw.ac.nz'
+    link: 'mailto:shaolin.wang@ecs.vuw.ac.nz'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -54,7 +54,7 @@ social:
   #   link: https://nz.linkedin.com/in/yi-mei-0329b83b
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.nz/citations?user=tg73FkMAAAAJ&hl=en
+    link: https://scholar.google.com/citations?hl=en&user=XoOhF-IAAAAJ
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/fangfang-zhang/
@@ -73,5 +73,5 @@ user_groups:
   - Grad Students
 ---
 
-Jordan MacLachlan is supervised by A/Prof. Yi Mei (Primary supervisor), Prof. Mengjie Zhang and Dr. Fangfang.
+Shaolin Wang is supervised by A/Prof. Yi Mei (Primary supervisor) and Prof. Mengjie Zhang.
 
