@@ -4,7 +4,7 @@ title: Hui Ma
 
 # Username (this should match the folder name)
 authors:
-  - hma
+  - 002hma
 
 # Is this the primary user of the site?
 superuser: true

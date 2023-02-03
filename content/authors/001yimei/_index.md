@@ -4,13 +4,13 @@ title: Yi Mei
 
 # Username (this should match the folder name)
 authors:
-  - yimei
+  - 001yimei
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Associate Professor
+role: Group Coordinator, Associate Professor
 
 # Organizations/Affiliations
 organizations:
