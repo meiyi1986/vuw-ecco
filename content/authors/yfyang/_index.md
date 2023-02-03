@@ -1,11 +1,11 @@
 ---
 # Display name
-title: Joao Guilherme Cavalcanti Costa
+title: Yifan Yang
 # weight: -1
 
 # Username (this should match the folder name)
 authors:
-  - jcosta
+  - yfyang
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,8 +22,8 @@ organizations:
 bio:
 
 interests:
-  - Automatic Algorithm Design
-  - Vehicle Routing
+  - Genetic Programming
+  - Workflow Scheduling
 
 # education:
 #   courses:
@@ -44,16 +44,16 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:joao.costa@ecs.vuw.ac.nz'
+    link: 'mailto:yifan.yang@ecs.vuw.ac.nz'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
   # - icon: linkedin
   #   icon_pack: fab
   #   link: https://nz.linkedin.com/in/yi-mei-0329b83b
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com.br/citations?user=id6QmBwAAAAJ&hl=en
+  # - icon: google-scholar
+  #   icon_pack: ai
+  #   link: https://scholar.google.com/citations?user=bqrdk9YAAAAJ&hl=en
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/fangfang-zhang/
@@ -72,5 +72,5 @@ user_groups:
   - Grad Students
 ---
 
-Joao Guilherme Cavalcanti Costa is supervised by A/Prof. Yi Mei (Primary supervisor) and Prof. Mengjie Zhang.
+Yifan Yang is supervised by Dr. Aaron Chen (Primary supervisor), A/Prof. Hui Ma and Prof. Mengjie Zhang.
 
