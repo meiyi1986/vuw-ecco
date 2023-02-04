@@ -1,6 +1,6 @@
 ---
 title: Shaolin Wang Win the ECOM Track Best Paper Award at GECCO 2022
-date: 2020-12-02
+date: 2022-07-01
 image:
   focal_point: 'top'
 ---
