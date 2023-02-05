@@ -1,6 +1,6 @@
 ---
 title: Fangfang Zhang Receives an ACM SIGEVO Best PhD Dissertation Award (Honorable Mention/Runner-up).
-date: 2022-07-01
+date: 2022-07-02
 image:
   focal_point: 'top'
 ---
