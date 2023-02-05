@@ -5,7 +5,7 @@ image:
   focal_point: 'top'
 ---
 
-Congratulations to <strong><a href="https://ecs.victoria.ac.nz/Main/GradShaolinWang">Shaolin Wang</a></strong> for winning the ECOM track Best Paper Award at the ACM Genetic and Evolutionary Computation Conference (GECCO) 2022 for their paper “<a href="https://dl.acm.org/doi/10.1145/3512290.3528723">Local Ranking Explanation for Genetic Programming Evolved Routing Policies for Uncertain Capacitated Arc Routing Problems</a>”.
+Congratulations to <a href="https://ecs.victoria.ac.nz/Main/GradShaolinWang">Shaolin Wang</a> for winning the ECOM track Best Paper Award at the ACM Genetic and Evolutionary Computation Conference (GECCO) 2022 for their paper “<a href="https://dl.acm.org/doi/10.1145/3512290.3528723">Local Ranking Explanation for Genetic Programming Evolved Routing Policies for Uncertain Capacitated Arc Routing Problems</a>”.
 
 <!--more-->
 
