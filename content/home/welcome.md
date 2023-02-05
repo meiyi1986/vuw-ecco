@@ -19,6 +19,11 @@ design:
 
 <br>
 
-The **Evolutionary Computation for Combinatorial Optimisation (ECCO)** Research Group is a sub-group under the <a href="https://ecs.victoria.ac.nz/Groups/ECRG/">Evolutionary Computation Research Group</a> in Victoria University of Wellington, New Zealand. The group has a wide range of research interests and projects in solving combinatorial optimisation problems using evolutionary computation, including evolutionary vehicle/arc routing, job shop scheduling, cloud resource allocation, Web service composition.
+The **Evolutionary Computation for Combinatorial Optimisation (ECCO)** Research Group has a wide range of research interests and projects in solving combinatorial optimisation problems using evolutionary learning and optimisation.
+
+<!-- The **Evolutionary Computation for Combinatorial Optimisation (ECCO)** Research Group 
+is a sub-group under the <a href="https://ecs.victoria.ac.nz/Groups/ECRG/">Evolutionary Computation Research Group</a> in Victoria University of Wellington, New Zealand. 
+
+The group has a wide range of research interests and projects in solving combinatorial optimisation problems using evolutionary computation, including evolutionary vehicle/arc routing, job shop scheduling, cloud resource allocation, Web service composition. -->
 
 <!-- The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016. -->
