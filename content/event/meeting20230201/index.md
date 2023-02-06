@@ -12,8 +12,8 @@ address:
   postcode: '6012'
   country: New Zealand
 
-summary: <strong><a href="https://ecs.victoria.ac.nz/Main/GradShaolinWang">Shaolin Wang</a></strong> will talk about explaining GP-evolved routing policies.
-abstract: '<strong><a href="https://ecs.victoria.ac.nz/Main/GradShaolinWang">Shaolin Wang</a></strong> will talk about explaining GP-evolved routing policies.'
+summary: <a href="https://ecs.victoria.ac.nz/Main/GradShaolinWang">Shaolin Wang</a> will talk about explaining GP-evolved routing policies.
+abstract: '<a href="https://ecs.victoria.ac.nz/Main/GradShaolinWang">Shaolin Wang</a> will talk about explaining GP-evolved routing policies.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
