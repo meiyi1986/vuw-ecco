@@ -12,8 +12,8 @@ address:
   postcode: '6012'
   country: New Zealand
 
-summary: <a href="https://ecs.wgtn.ac.nz/Main/GradHengzheZhang">Hengzhe Zhang</a> will talk about genetic programming with bloat control.
-abstract: '<a href="https://ecs.wgtn.ac.nz/Main/GradHengzheZhang">Hengzhe Zhang</a> will talk about genetic programming with bloat control.'
+summary: <a href="https://ecs.wgtn.ac.nz/Main/GradHengzheZhang">Hengzhe Zhang</a> will talk about Bloat Control Techniques in GP (Past, Present and Future).
+abstract: '<a href="https://ecs.wgtn.ac.nz/Main/GradHengzheZhang">Hengzhe Zhang</a> will talk about Bloat Control Techniques in GP (Past, Present and Future).'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
