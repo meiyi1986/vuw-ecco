@@ -15,7 +15,7 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: yi.mei@ecs.vuw.ac.nz
+  # email: yi.mei@ecs.vuw.ac.nz
   # phone: 888 888 88 88
   # address:
   #   street: 450 Serra Mall
@@ -39,16 +39,16 @@ content:
   #    link: 'https://discourse.gohugo.io'
 
   # Automatically link email and phone or display as text?
-  autolink: true
+  # autolink: true
 
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+  # form:
+  #   provider: netlify
+  #   formspree:
+  #     id:
+  #   netlify:
+  #     # Enable CAPTCHA challenge to reduce spam?
+  #     captcha: false
 
 design:
   columns: '1'
