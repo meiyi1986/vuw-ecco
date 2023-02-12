@@ -72,5 +72,5 @@ user_groups:
   - Alumni
 ---
 
-Dr. Chen Wang was a PhD student working with A/Prof. Hui Ma and Dr. Aaron Chen during 2016-2020. He is now Data Scientist at NIWA. His research interests include learning-based optimization and reinforcement learning algorithms.
+Dr. Chen Wang was a PhD student working with A/Prof. Hui Ma and Dr. Aaron Chen during 2016-2020. He is now a Data Scientist at NIWA. His research interests include learning-based optimization and reinforcement learning algorithms.
 

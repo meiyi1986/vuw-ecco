@@ -1,11 +1,11 @@
 ---
 # Display name
-title: Guiying (Victoria) Huang
+title: Mazhar Ansari Ardeh
 # weight: 10
 
 # Username (this should match the folder name)
 authors:
-  - guiying-huang
+  - mazhar-ansari-ardeh
 
 # Is this the primary user of the site?
 superuser: false
@@ -15,7 +15,7 @@ role: Data Scientist
 
 # Organizations/Affiliations
 organizations:
-  - name: NIWA
+  - name: Tourlane
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -23,19 +23,19 @@ bio:
 
 interests:
   - Machine Learning
-  - Optimisation
+  - Data Analysis
 
 education:
   courses:
     - course: PhD
       institution: Victoria University of Wellington, New Zealand
-      year: 2020
-    - course: MEng
-      institution: Sun Yat-sen University, China
-      year: 2016
+      year: 2021
+    - course: MSc
+      institution: Kharazmi University, Iran
+      year: 2014
     - course: BE
-      institution: Sun Yat-sen University, China
-      year: 2013
+      institution: University of Sistan and Baluchestan, Iran
+      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -44,16 +44,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:gy.victoria.huang@gmail.com'
+    link: 'mailto:mazhar.ardeh@gmail.com'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
   - icon: linkedin
     icon_pack: fab
-    link: linkedin.com/in/victoria-gy-huang
+    link: linkedin.com/in/mazharansariardeh
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.nz/citations?user=jZv153YAAAAJ&hl=en
+    link: https://scholar.google.co.nz/citations?hl=en&user=9v5UKxoAAAAJ
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/meiyi1986
@@ -72,5 +72,5 @@ user_groups:
   - Alumni
 ---
 
-Dr. Guiying (Victoria) Huang was a PhD student working with Dr. Aaron Chen and A/Prof. Hui Ma during 2016-2020. She is a now Data Scientist at NIWA. Her research interests include machine learning (especially reinforcement learning), data visualization, and data analysis.
+Dr. Mazhar Ansari Ardeh was a PhD student working with A/Prof. Yi Mei and Prof. Mengjie Zhang during 2018-2021. He is now a Data Scientist at Tourlane, Germany. His interests include statistical analysis, machine learning, predictive modelling and data visualisation.
 

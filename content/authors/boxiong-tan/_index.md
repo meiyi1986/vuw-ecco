@@ -72,5 +72,5 @@ user_groups:
   - Alumni
 ---
 
-Dr. Boxiong Tan was a PhD student working with A/Prof. Hui Ma and A/Prof. Yi Mei during 2016-2020. He is now Data Scientist at Westpac New Zealand. He is motivated with expertise in modeling, analysis, and reporting, customer engagement, academic research, and big data system development.
+Dr. Boxiong Tan was a PhD student working with A/Prof. Hui Ma and A/Prof. Yi Mei during 2016-2020. He is now a Data Scientist at Westpac New Zealand. He is motivated with expertise in modeling, analysis, and reporting, customer engagement, academic research, and big data system development.
 
