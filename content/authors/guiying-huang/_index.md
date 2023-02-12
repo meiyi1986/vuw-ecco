@@ -22,8 +22,8 @@ organizations:
 bio: 
 
 interests:
-  - Machine Learning
-  - Optimisation
+  # - Machine Learning
+  # - Optimisation
 
 education:
   courses:

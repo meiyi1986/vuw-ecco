@@ -22,8 +22,8 @@ organizations:
 bio: 
 
 interests:
-  - Multi-objective Optimisation
-  - Job Shop Scheduling
+  # - Multi-objective Optimisation
+  # - Job Shop Scheduling
 
 education:
   courses:

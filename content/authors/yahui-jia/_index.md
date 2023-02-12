@@ -22,8 +22,8 @@ organizations:
 bio: 
 
 interests:
-  - Large Scale Optimization
-  - Combinatorial Optimization
+  # - Large Scale Optimization
+  # - Combinatorial Optimization
 
 education:
   courses:

@@ -22,8 +22,8 @@ organizations:
 bio: 
 
 interests:
-  - Machine Learning
-  - Data Analysis
+  # - Machine Learning
+  # - Data Analysis
 
 education:
   courses:
