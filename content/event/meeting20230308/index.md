@@ -12,8 +12,8 @@ address:
   postcode: '6012'
   country: New Zealand
 
-summary: <a href="https://www.linkedin.com/in/chen-wang-nz">Chen Wang</a> will talk about their recent paper on GP for workflow scheduling.
-abstract: '<a href="https://www.linkedin.com/in/chen-wang-nz">Chen Wang</a> will talk about their recent paper on GP for workflow scheduling.'
+summary: <a href="https://www.linkedin.com/in/chen-wang-nz">Chen Wang</a> will talk about their recent paper on GP for dynamic cloud resource allocation.
+abstract: '<a href="https://www.linkedin.com/in/chen-wang-nz">Chen Wang</a> will talk about their recent paper on GP for dynamic cloud resource allocation.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
