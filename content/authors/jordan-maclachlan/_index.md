@@ -73,5 +73,5 @@ user_groups:
   - Grad Students
 ---
 
-Jordan MacLachlan is supervised by A/Prof. Yi Mei (Primary supervisor), Prof. Mengjie Zhang and Dr. Fangfang.
+Jordan MacLachlan is supervised by A/Prof. Yi Mei (Primary supervisor), Prof. Mengjie Zhang and Dr. Fangfang Zhang.
 

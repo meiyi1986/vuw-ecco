@@ -72,5 +72,5 @@ user_groups:
   - Grad Students
 ---
 
-Zhixing Huang is supervised by A/Prof. Yi Mei (Primary supervisor), Prof. Mengjie Zhang and Dr. Fangfang.
+Zhixing Huang is supervised by A/Prof. Yi Mei (Primary supervisor), Prof. Mengjie Zhang and Dr. Fangfang Zhang.
 

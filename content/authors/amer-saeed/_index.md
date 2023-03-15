@@ -1,11 +1,11 @@
 ---
 # Display name
-title: Meng Xu
-# weight: -1
+title: Amer Saeed
+# weight: 10
 
 # Username (this should match the folder name)
 authors:
-  - meng-xu
+  - amer-saeed
 
 # Is this the primary user of the site?
 superuser: false
@@ -19,23 +19,23 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: 
 
 interests:
-  - Genetic Programming
-  - Job Shop Scheduling
+  - Hybrid Cloud Computing
+  - Scheduling
 
 # education:
 #   courses:
-#     - course: PhD in Computer Science
+#     - course: PhD
 #       institution: Victoria University of Wellington, New Zealand
-#       year: 2021
-#     - course: MSc
-#       institution: Shenzhen University, China
-#       year: 2017
-#     - course: BSc
-#       institution: Shenzhen University, China
-#       year: 2014
+#       year: 2020
+#     - course: MEng
+#       institution: Sun Yat-sen University, China
+#       year: 2016
+#     - course: BE
+#       institution: Sun Yat-sen University, China
+#       year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -44,19 +44,19 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:meng.xu@ecs.vuw.ac.nz'
+    link: 'mailto:amer.saeed@ecs.vuw.ac.nz'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
   # - icon: linkedin
   #   icon_pack: fab
-  #   link: https://nz.linkedin.com/in/yi-mei-0329b83b
+  #   link: linkedin.com/in/victoria-gy-huang
   # - icon: google-scholar
   #   icon_pack: ai
-  #   link: https://scholar.google.com/citations?user=bqrdk9YAAAAJ&hl=en
+  #   link: https://scholar.google.co.nz/citations?user=jZv153YAAAAJ&hl=en
   # - icon: github
   #   icon_pack: fab
-  #   link: https://github.com/fangfang-zhang/
+  #   link: https://github.com/meiyi1986
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,5 +72,4 @@ user_groups:
   - Grad Students
 ---
 
-Meng (Nora) Xu is supervised by A/Prof. Yi Mei (Primary supervisor), Prof. Mengjie Zhang and Dr. Fangfang Zhang.
-
+Amer Saeed is supervised by A/Prof. Aaron Chen (Primary supervisor), A/Prof. Hui Ma and Dr. Qiang Fu (RMIT University, Australia).

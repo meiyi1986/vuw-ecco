@@ -1,11 +1,11 @@
 ---
 # Display name
-title: Meng Xu
+title: Yuan Tian
 # weight: -1
 
 # Username (this should match the folder name)
 authors:
-  - meng-xu
+  - yuan-tian
 
 # Is this the primary user of the site?
 superuser: false
@@ -23,7 +23,7 @@ bio:
 
 interests:
   - Genetic Programming
-  - Job Shop Scheduling
+  - Scheduling
 
 # education:
 #   courses:
@@ -44,7 +44,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:meng.xu@ecs.vuw.ac.nz'
+    link: 'mailto:yuan.tian@ecs.vuw.ac.nz'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -72,5 +72,5 @@ user_groups:
   - Grad Students
 ---
 
-Meng (Nora) Xu is supervised by A/Prof. Yi Mei (Primary supervisor), Prof. Mengjie Zhang and Dr. Fangfang Zhang.
+Yuan Tian is supervised by A/Prof. Yi Mei (Primary supervisor) and Prof. Mengjie Zhang.
 
