@@ -69,6 +69,8 @@ user_groups:
   - Visitors
 ---
 
+Prof. Sven Hartmann is an expert in databases and algorithms. He visited the ECCO group during March - April 2023.
+
 <!-- Hui Ma is an Associate Professor in Software Engineering at School of Engineering and Computer Science, Victoria University of Wellington. She teaches on topics related to Software Engineering and Databases. She obtained a PhD in Information Systems from Massey University in 2008.
 
 Hui's main research interests include service composition, service deployment and resource allocation for services, artificial intelligence, evolutionary computation, distributed databases, social network data analysis, and conceptual modelling. She has published over 120 fully refereed articles in internationally recognised journals and conferences, and has contributed several chapters to published books. Her research has been funded through several competitive grants, including Marsden grant from New Zealand Royal Society. She has been served as PC chairs for several international conferences, including DEXA2016, APCCM 2017, ER2017, APCCM2018 and DEXA2018. She is currently serving at local Co-chair of two international conferences (AI2018 and CEC2019) in the area of evolutionary computation and artificial intelligence. -->
