@@ -69,7 +69,7 @@ user_groups:
   - Visitors
 ---
 
-Prof. Sven Hartmann is an expert in databases and algorithms. He visited the ECCO group during March - April 2023.
+Prof. Sven Hartmann is an expert in databases and algorithms. He visited the ECCO group during September 2019 and March-April 2023.
 
 <!-- Hui Ma is an Associate Professor in Software Engineering at School of Engineering and Computer Science, Victoria University of Wellington. She teaches on topics related to Software Engineering and Databases. She obtained a PhD in Information Systems from Massey University in 2008.
 

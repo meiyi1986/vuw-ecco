@@ -73,7 +73,7 @@ user_groups:
   - Visitors
 ---
 
-Prof. Juergen Branke is a world expert in evolutionary computation, machine learning and operations research. He visited the ECCO group for one week during June 2019.
+Prof. Juergen Branke is a world expert in evolutionary computation, machine learning and operations research. He visited the ECCO group during May 2018 and June 2019.
 
 <!-- Hui Ma is an Associate Professor in Software Engineering at School of Engineering and Computer Science, Victoria University of Wellington. She teaches on topics related to Software Engineering and Databases. She obtained a PhD in Information Systems from Massey University in 2008.
 
