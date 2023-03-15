@@ -12,8 +12,8 @@ address:
   postcode: '6012'
   country: New Zealand
 
-summary: <a href="https://ecs.wgtn.ac.nz/Main/GradZhixingHuang">Zhixing Huang</a> will talk about his recent work.
-abstract: '<a href="https://ecs.wgtn.ac.nz/Main/GradZhixingHuang">Zhixing Huang</a> will talk about his recent work.'
+summary: <a href="https://ecs.wgtn.ac.nz/Main/GradZhixingHuang">Zhixing Huang</a> will talk about his recent work on multi-representation GP.
+abstract: '<a href="https://ecs.wgtn.ac.nz/Main/GradZhixingHuang">Zhixing Huang</a> will talk about his recent work on multi-representation GP.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
